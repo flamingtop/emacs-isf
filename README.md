@@ -1,5 +1,5 @@
 
-# Emacs Incremental Search
+# Emacs Incrementally Search Files
 
     M-x isf-set-dir ; tell which directory to search from
     M-x isf         ; do it incrementally
