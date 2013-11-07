@@ -5,7 +5,7 @@
     M-x isf         ; do it incrementally
     <RET>           ; press return to finish search
 
-![emacs incremental search files screenshot](https://github.com/flamingtop/emacs-isf/raw/master/isf.png)
+![emacs incremental search files screenshot](https://github.com/flamingtop/emacs-isf/raw/master/isf.jpg)
 
 
 
